@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AdvancedWidget1</string>
+    <string name="umur">Umur</string>
+    <string name="nama_anak">Nama Anak</string>
 </resources>
